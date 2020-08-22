@@ -10,6 +10,7 @@ li:first-child {
 	color: blue;
 }
 
+/*
 #google-link:link {
 	color: blue;
 }
@@ -17,3 +18,19 @@ li:first-child {
 #google-link:visited {
 	color: red;
 }
+*/
+
+/*
+h2 + a { /* select the anchor that has an h2 before it 
+	color: red;
+}
+
+textarea ~ button { /* every button that is after a text area but in the same parent 
+	color: purple;
+}
+
+ul > li { /* every li in a ul 
+	color: blue;
+}
+
+*/
